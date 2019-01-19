@@ -1,3 +1,8 @@
+/*
+ *Skeč za potrebe članka u Svetu Kompjutera 
+ *Author: Petrović Dejan
+ *Date: 01/01/2019
+ */
 #include <SPI.h>
 #include <RF24.h>
 #include <Wire.h>;
